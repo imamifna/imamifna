@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Imam Ifna 👋
 
-<!--
-**imamifna/imamifna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Management & Finance graduate transitioning into the world of Data Analytics. I love turning complex numbers into actionable business insights.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack:
+- **Data Analysis:** SQL, Microsoft Excel (Advanced), Google Sheets
+- **Visualization:** Tableau / Power BI (sedang dipelajari)
+- **Soft Skills:** Business Management, Risk Analysis, Financial Reporting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects I'm Working On:
+- **E-commerce Data Cleaning & Analysis:** Using SQL to process large datasets for sales optimization.
+- **Financial Performance Dashboard:** Building a portfolio focusing on retail business growth.
+
+### 📫 Let's Connect:
+- **LinkedIn:** https://www.linkedin.com/in/imam-ifna-7a60162b6/
+- **Email:** imamifna304@gmail.com
+
+---
+"I believe that data is only as good as the decisions it inspires."
