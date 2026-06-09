@@ -37,8 +37,8 @@ I am a Google-Certified Data Analyst with a solid background in Business & Manag
 ### 📈 My Learning Journey (Road to PL-300)
 - [x] Google Data Analytics Professional Certificate
 - [x] Databases and SQL for Data Science with Python *(IBM)*
-- [ ] Advanced DAX Formulas & Data Modeling (Star Schema) in Power BI
-- [ ] Microsoft PL-300 Exam Preparation
+- [x] Advanced DAX Formulas & Data Modeling (Star Schema) in Power BI
+- [x] Microsoft PL-300 Exam Preparation
 
 ---
 
